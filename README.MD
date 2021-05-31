@@ -1,3 +1,6 @@
-### Netflix Clone
+# Recriando a Interface do Netflix
 
-Studies content from Digital Innovation HTML Bootcamp
+- HTML5
+- CSS3
+- JavaScript
+- JQuery
